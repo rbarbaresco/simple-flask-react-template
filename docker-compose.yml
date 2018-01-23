@@ -1,0 +1,10 @@
+version: '3'
+
+services:
+  weathermap:
+    build: .
+    container_name: apismo
+    ports:
+      - "5000:5000"
+    env_file:
+      - .dev.env
