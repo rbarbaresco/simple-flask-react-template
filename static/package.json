@@ -1,5 +1,5 @@
 {
-  "name": "apismo",
+  "name": "simple-flask-react-template",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rbarbaresco/apismo.git"
+    "url": "git+https://github.com/rbarbaresco/simple-flask-react-template.git"
   },
   "author": "rbarbaresco",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rbarbaresco/apismo/issues"
+    "url": "https://github.com/rbarbaresco/simple-flask-react-template/issues"
   },
-  "homepage": "https://github.com/rbarbaresco/apismo#readme",
+  "homepage": "https://github.com/rbarbaresco/simple-flask-react-template#readme",
   "devDependencies": {
     "babel-core": "^6.26.0",
     "babel-loader": "^7.1.2",
